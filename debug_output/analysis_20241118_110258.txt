@@ -1,0 +1,14 @@
+Analysis for: Berlin has a population of 3.8M people.
+
+high_att_low_sim:
+['[CLS]', '3', '8', '##m', '.']
+
+low_att_high_sim:
+['population']
+
+high_att_high_sim:
+['has', 'a', 'of', '.', 'people', '[SEP]']
+
+low_att_low_sim:
+['berlin']
+

@@ -1,0 +1,14 @@
+Analysis for: The quick red fox jumped over the lazy brown dog.
+
+high_att_low_sim:
+['.']
+
+low_att_high_sim:
+['the', 'quick', 'red', 'jumped', 'the', 'lazy', 'dog']
+
+high_att_high_sim:
+['fox', 'brown']
+
+low_att_low_sim:
+['[CLS]', 'over', '[SEP]']
+
